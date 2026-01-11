@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <channel>
+    <title>Health Intelligence App Updates</title>
+    <link>https://pdhpc2qyd7-rgb.github.io/health-intelligence-app/appcast.xml</link>
+    <description>Update feed for Health Intelligence App (macOS)</description>
+    <language>en</language>
+
+    <item>
+      <title>Initial Release Placeholder</title>
+      <sparkle:version>0</sparkle:version>
+      <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
+      <description><![CDATA[
+        Initial placeholder. First real release will appear here.
+      ]]></description>
+      <pubDate>Mon, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
